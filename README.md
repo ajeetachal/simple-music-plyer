@@ -1,2 +1,2 @@
 # simple-music-plyer
-This project is a simple single-song music player created using HTML5, CSS and JavaScript. It provides a convenient way to fetch and play music from URLs, allowing users to easily control the volume of the song using a range bar or slider bar.
+This project is a simple single-song music player created using HTML5, CSS and JavaScript. It allows users to fetch and play songs from an external URL, and control the volume using a range bar or slider bar. This project provides a convenient and easy way to listen to music without having to download any files or install any software. It's an ideal solution for anyone who enjoys listening to music on the go.
